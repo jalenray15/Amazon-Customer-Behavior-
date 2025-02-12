@@ -39,7 +39,8 @@ Amazon’s **customer survey database** consists of the following **tables**:
 
 ## 📌 **SQL Queries & Data Cleaning**
 ### 🔹 **Data Cleaning & Transformation**
-- The SQL queries used to clean and prepare the data can be found **[here](link-to-your-Customer_Behavior.sql)**.
+- The SQL queries used to clean and prepare the data can be found **[here](https://github.com/jalenray15/Amazon-Customer-Behavior-/blob/main/Amazon_Customer_Behavior.sql)**.
+
 
 ---
 
