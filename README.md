@@ -84,7 +84,7 @@ Amazon’s **customer survey database** consists of the following **tables**:
 ✅ **Key Insight 2:** **40.03% changed their mind**, indicating that Amazon could benefit from **retargeting ads & reminder emails**.  
 ✅ **Key Insight 3:** **High shipping costs (11.63%)** are a significant factor, suggesting that offering **discounted shipping options** might improve conversions.  
 
-<img width="600" alt="Screen Shot 2025-02-12 at 3 24 30 PM" src="https://github.com/user-attachments/assets/b6c0305a-3883-4c29-a935-d66fbb4d05a1" />
+<img width="1237" alt="Screen Shot 2025-02-13 at 12 42 35 AM" src="https://github.com/user-attachments/assets/1e62d02b-6cfb-4c0f-84ec-3b5549b2601c" />
 
 
 ---
