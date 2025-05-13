@@ -44,7 +44,7 @@ Amazon’s **customer survey database** consists of the following **tables**:
 
 ---
 
-## 📊 ** Tableau Dashboard**
+## 📊  Tableau Dashboard
 
 <img width="1000" alt="Screen Shot 2025-02-12 at 3 35 48 PM" src="https://github.com/user-attachments/assets/3dc04966-9180-47de-a7bb-5b522f184db9" />
 
